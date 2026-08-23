@@ -113,7 +113,7 @@ pip3 install paho-mqtt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/105-IoT-Projects.git
+git clone https://github.com/veendysuseno/105-IoT-Projects.git
 cd 105-IoT-Projects
 ```
 
